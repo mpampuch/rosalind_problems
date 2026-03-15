@@ -51,6 +51,12 @@
 1. [UPGMA](https://rosalind.info/problems/ba7d/)
 2. [Hierarchical Clustering](https://rosalind.info/problems/ba8e/)
 
+# Exercism.io
+1. [hamming - Rust](https://exercism.org/tracks/rust/exercises/hamming), [hamming - Julia](https://exercism.org/tracks/julia/exercises/hamming)
+2. [nucleotide-count - Rust](https://exercism.org/tracks/rust/exercises/nucleotide-count), [nucleotide-count - Julia](https://exercism.org/tracks/julia/exercises/nucleotide-count)
+3. [rna-transcription - Rust](https://exercism.org/tracks/rust/exercises/rna-transcription), [rna-transcription - Julia](https://exercism.org/tracks/julia/exercises/rna-transcription)
+4. [protein-translation - Rust](https://exercism.org/tracks/rust/exercises/protein-translation), [protein-translation - Julia](https://exercism.org/tracks/julia/exercises/protein-translation)
+
 # Solutions
 1. https://github.com/Cobos-Bioinfo/Rosalind-Solutions
 2. https://github.com/Rgtemze/rosalind-solutions
