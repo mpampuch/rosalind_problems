@@ -1,0 +1,5 @@
+$
+ATCG$
+CG$
+G$
+TCG$
